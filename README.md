@@ -16,8 +16,8 @@ in cmd line: npm t, npm test, or npm run test
 
 note the console will be flooded due to the nature of the program, outputing logs everytime a command function is run.
 
-#Requirements
+# Requirements
 node 7.10.0
 
-#Quick demo
+# Quick demo
 ![](https://github.com/Sherman-Chen/shiny-bulldog/blob/master/assets/giphy.gif)
