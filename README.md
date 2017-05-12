@@ -18,3 +18,6 @@ note the console will be flooded due to the nature of the program, outputing log
 
 #Requirements
 node 7.10.0
+
+#Quick demo
+![](https://github.com/Sherman-Chen/shiny-bulldog/blob/master/assets/giphy.gif)
