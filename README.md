@@ -1,6 +1,6 @@
 # thoughts/instructions
 npm install
-to run program, from cmd line: node main.js <target> <command> <commandQuery>
+to run program, from cmd line: node main.js [target] [command] [commandQuery]
 i.e. node main.js data.json locate ca
 
 I chose to use node.js because I am familiar with it (I wanted to check out the latest features, async/await), and including how to process input/output for a command line tool.
